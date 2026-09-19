@@ -1,4 +1,4 @@
-# 3D-ra-unalna-grafika
+# 3D računalna grafika
 Projekt iz 3D računalne grafike: low-poly animacija
 
 
